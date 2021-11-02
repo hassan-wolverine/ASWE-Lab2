@@ -7,6 +7,7 @@ public class Client {
 		IArea r = new Rectangle(3, 4);
 		System.out.println(r.getArea());
 
+		// new square
 		r = new Square(5);
 		System.out.println(r.getArea());
 
